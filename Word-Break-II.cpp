@@ -10,7 +10,7 @@ public:
             return;  
         }  
 
-        string str = \\;
+        string str = "";
         for (int i = index; i < s.length(); i++) {  
             str += s[i];   
             if (isStringPresent(wordDict, str)) {  
