@@ -1,33 +1,41 @@
 class Solution {
 public:
     int minimumDeletions(string word, int k) {
-        vector<int> freq(26,0);
-
-        for (int i = 0;i<word.size();i++) {
-            freq[word[i]-'a']++;
+        unordered_map<char,int >FreqMap;
+        for(char ch : word)
+        {
+            FreqMap[ch]++;
         }
 
-        sort(freq.begin(),freq.end());
-        
-        int res = INT_MAX;
-        int o = 0;
+        vector<int>Freq;
+        for(auto& data: FreqMap)
+        {
+            Freq.push_back(data.second);
+        } 
 
-        for (int i = 0;i<26;i++) {
-            int c = o;
-            int m = freq[i];
-            for (int b = i+1;b<26;b++) {
+        int n = Freq.size();
+        // sort the Freq vector
+        sort(Freq.begin(),Freq.end());
 
-                if (freq[b]-m>k) {
-                    c += (freq[b]-m-k);
+        int minDeletion = INT_MAX;
+
+        int tempDeletion = 0; //Deletion till a chosen index
+        for(int i=0;i<n;i++)
+        {
+            int current = Freq[i];
+            int deletion = tempDeletion;
+            for(int j=i+1;j<n;j++)
+            {
+                if(Freq[j] - current > k)
+                {
+                    deletion += (Freq[j] - current - k); 
                 }
-                
             }
+            minDeletion  = min(minDeletion , deletion);
 
-            res = min(res,c);
-
-            o+=freq[i];
+            tempDeletion += current;
         }
 
-        return res;
+        return minDeletion;
     }
 };
