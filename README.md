@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/rajnishkumar1906/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rajnishkumar1906/Leetcode/tree/master/0494-target-sum) |
+| [0650-2-keys-keyboard](https://github.com/rajnishkumar1906/Leetcode/tree/master/0650-2-keys-keyboard) |
 ## Backtracking
 |  |
 | ------- |
@@ -29,4 +30,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/rajnishkumar1906/Leetcode/tree/master/0474-ones-and-zeroes) |
+## Math
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/rajnishkumar1906/Leetcode/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
