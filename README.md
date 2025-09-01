@@ -14,13 +14,19 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/rajnishkumar1906/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rajnishkumar1906/Leetcode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/rajnishkumar1906/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rajnishkumar1906/Leetcode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/rajnishkumar1906/Leetcode/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/rajnishkumar1906/Leetcode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
