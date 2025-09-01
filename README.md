@@ -9,3 +9,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/rajnishkumar1906/Leetcode/tree/master/0494-target-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/rajnishkumar1906/Leetcode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/rajnishkumar1906/Leetcode/tree/master/0494-target-sum) |
+<!---LeetCode Topics End-->
