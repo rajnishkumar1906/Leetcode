@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/rajnishkumar1906/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0474-ones-and-zeroes](https://github.com/rajnishkumar1906/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rajnishkumar1906/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/rajnishkumar1906/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -33,5 +34,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/rajnishkumar1906/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/rajnishkumar1906/Leetcode/tree/master/0650-2-keys-keyboard) |
+## Hash Table
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/rajnishkumar1906/Leetcode/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/rajnishkumar1906/Leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
