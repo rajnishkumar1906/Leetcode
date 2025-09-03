@@ -47,4 +47,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rajnishkumar1906/Leetcode/tree/master/0264-ugly-number-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rajnishkumar1906/Leetcode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rajnishkumar1906/Leetcode/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rajnishkumar1906/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rajnishkumar1906/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
